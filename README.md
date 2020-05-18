@@ -6,3 +6,7 @@ Kleine Aufgaben, die wir während der theoretischen Einführung des Themas "DOM"
 
 Die Anweisungen befinen sich in der main.js
 
+https://gael-src.github.io/js-dom-manipulation/
+
+
+https://gael-src.github.io/
