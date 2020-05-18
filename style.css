@@ -1,0 +1,15 @@
+body {
+  background-color: yellow; /* overwritten orange in JS  */
+}
+
+.first-section {
+  color: rgb(12, 61, 152);
+}
+
+.second-section {
+  color: green;
+}
+
+.third-section {
+  color: red;
+}
